@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733862709 source:c:\users\ardae\onedrive\masaüstü\dersler\programlama\c fasa fiso\tas kagýt makas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
