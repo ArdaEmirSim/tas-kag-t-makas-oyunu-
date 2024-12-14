@@ -17,7 +17,6 @@ int main()
         printf("Tas, Kagit, Makas!!(tas=1/kagit=2/makas=3)\n");
         scanf("%d",&insandeger);
         makinedeger=rand()%3+1;
-        printf("%d",makinedeger);
         if (insandeger==1)
         {
             if(makinedeger==1)
